@@ -19,5 +19,5 @@ body {
 }
 .kartu-profil {
     /* ...(Kode Dari Slide Sebelumnya)... */
-    text-align: center /* Menengahkan Semua Teks */
+    text-align: center; /* Menengahkan Semua Teks */
 }
